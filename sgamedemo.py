@@ -251,7 +251,5 @@ def gameloop():
 
     pygame.quit()
     quit()
-
-
-# gameloop()
+    
 welcome()
